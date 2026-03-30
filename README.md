@@ -18,3 +18,9 @@ data = [1,2,3,100,5]
 
 print(loc_scale_m(data))
 print(scale_m(data))
+### Sample Output
+
+locScaleM: [2.75, 0.7395, 2.3077]  
+scaleM: 4.8136
+## Contribution
+Initial wrapper implementation and testing using RPy2 for RobStatTM functions.
